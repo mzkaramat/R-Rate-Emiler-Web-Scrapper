@@ -23,5 +23,5 @@ send.mail(from = "muhammadzeeshan020@gmail.com",
           smtp = list(host.name = "119.30.86.103", port = 25),
           authenticate = FALSE,
           send = TRUE)
-Sys.sleep(60)
+Sys.sleep(3600)
 }
